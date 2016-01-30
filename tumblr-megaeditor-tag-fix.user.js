@@ -5,7 +5,8 @@
 // @namespace http://reppets.hatenablog.com/
 // @version 1.0.0
 // @compatible firefox (verified with 43.0.4)
-
+// @compatible chrome (verified with  47.0.2526.111)
+// @license https://raw.githubusercontent.com/reppets/tumblr-megaeditor-tag-fix/master/LICENSE
 // @include https://www.tumblr.com/mega-editor/*
 // ==/UserScript==
 var observer = new MutationObserver(function(records, observer) {
